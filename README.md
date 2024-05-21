@@ -12,7 +12,8 @@
   Hi, I’m Eduardo, a student dedicated to advancing algorithms and software engineering from Brazil.
   
   - 🔭 I’m looking for my first job opportunity
-  - 📚 I'm currently learning Python<br>- ⚡ In my free time I study Java and C++
+  - 📚 I'm currently learning Python
+  - ⚡ In my free time I study Java and C++
 </p>
 
 ###
