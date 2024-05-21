@@ -8,7 +8,12 @@
 
 ###
 
-<p align="left">Hi, I’m Eduardo, a student dedicated to advancing algorithms and software engineering from Brazil.<br><br>- 🔭 I’m looking for my first job opportunity<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I study Java and C++</p>
+<p align="left">
+  Hi, I’m Eduardo, a student dedicated to advancing algorithms and software engineering from Brazil.
+  
+  - 🔭 I’m looking for my first job opportunity
+  - 📚 I'm currently learning Python<br>- ⚡ In my free time I study Java and C++
+</p>
 
 ###
 
