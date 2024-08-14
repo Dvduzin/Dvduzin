@@ -12,7 +12,7 @@
   Hi, I’m Eduardo, a student dedicated to advancing algorithms and software engineering from Brazil.
   
   - 🔭 I’m looking for my first job opportunity
-  - 📚 I'm currently learning Python
+  - 📚 I'm currently learning C and Django
   - ⚡ In my free time I study Java and C++
 </p>
 
