@@ -1,88 +1,98 @@
-<h1 align="center">Hello, World!</h1>
+<h1 align="center">Hi, I'm Eduardo 👋</h1>
 
-###
-
-<br clear="both">
-
-<h2 align="left">🙍About Me</h2>
-
-###
-
-<p align="left">
-  Hi, I’m Eduardo, a student dedicated to advancing algorithms and software engineering from Brazil.
-  
-  - 🔭 I’m looking for my first job opportunity
-  - 📚 I'm currently learning C and Django
-  - ⚡ In my free time I study Java and C++
+<p align="center">
+  Junior SAP ABAP Analyst @ Accenture • Computer Science student @ CESAR School<br/>
+  4+ years of hands-on programming experience • AI & Cloud enthusiast • Based in Brazil
 </p>
 
-###
-
-<h2 align="left">🔥My Stats</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardohasantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardohasantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="130" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">📷 Social Medias</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-henrique-alves-dos-santos-777235257/?trk=opento_sprofile_details" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/eduardo-henrique-alves-dos-santos-777235257/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/eduardohalves_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/channel/UC_KKH4HuQ1cKJD_Q44cfNaA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
   </a>
 </div>
 
-###
+<br/>
+
+<h2 align="left">🙍‍♂️ About Me</h2>
+
+<p align="left">
+  I'm a <b>Junior SAP ABAP Analyst</b> at <b>Accenture Brasil</b> and a <b>Computer Science</b> student at <b>CESAR School</b>.
+  I have over <b>4 years of hands-on programming experience</b> through academic, personal, and practical projects across multiple technologies.
+</p>
+
+<ul align="left">
+  <li>💼 Current focus: <b>SAP ABAP</b> development, debugging, data handling and performance-driven solutions</li>
+  <li>🧠 Expanding knowledge in <b>Artificial Intelligence</b> and <b>Cloud Computing</b> through self-directed learning</li>
+  <li>🚀 Strong foundation in object-oriented programming, clean code, and structured problem-solving</li>
+  <li>🌍 Career goal: grow in global enterprise environments and contribute to high-impact technology projects</li>
+</ul>
+
+<br/>
+
+<h2 align="left">🧩 What you’ll find here</h2>
+
+<ul align="left">
+  <li>📌 Study projects in <b>AI</b>, <b>Cloud</b>, and software engineering fundamentals</li>
+  <li>🛠️ Structured repositories focused on clean architecture and continuous learning</li>
+  <li>📈 Ongoing technical evolution within the SAP ecosystem and beyond</li>
+</ul>
+
+<br/>
 
 <h2 align="left">🛠️ Skills</h2>
 
-###
+<h3 align="left">Dev Tools</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="eclipse" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
+</p>
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">Programming</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="28" alt="sap" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="28" alt="abap" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+</p>
 
-###
+<h3 align="left">Cloud & AI</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<br/>
+
+<h2 align="left">🔥 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardohasantos&show_icons=true&theme=github_dark&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardohasantos&layout=compact&theme=github_dark&hide_border=true" height="140" />
 </div>
 
-###
+<br/>
 
-<h3 align="left">Tools & Frameworks</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-</div>
-
-###
+<p align="center">
+  <i>Building enterprise-grade solutions. Learning AI. Exploring Cloud. Growing globally.</i>
+</p>
