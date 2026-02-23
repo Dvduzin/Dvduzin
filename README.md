@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eduardo 👋</h1>
 
 <p align="center">
-  Junior SAP ABAP Analyst @ Accenture • Computer Science student @ CESAR School<br/>
+  Junior SAP ABAP Analyst @Accenture • Computer Science student @CESAR School<br/>
   4+ years of hands-on programming experience • AI & Cloud enthusiast • Based in Brazil
 </p>
 
@@ -81,17 +81,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch" />
 </p>
-
-<br/>
-
-<h2 align="left">🔥 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardohasantos&show_icons=true&theme=github_dark&hide_border=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardohasantos&layout=compact&theme=github_dark&hide_border=true" height="140" />
-</div>
-
-<br/>
 
 <p align="center">
   <i>Building enterprise-grade solutions. Learning AI. Exploring Cloud. Growing globally.</i>
